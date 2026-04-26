@@ -1,0 +1,27 @@
+# --- SISTEMA ---
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+# --- REACT & NODE (Fundamental) ---
+node_modules/
+.npm
+dist/
+build/
+
+# --- TAILWIND ---
+.cache/
+
+# --- CONFIGURACIÓN Y SEGURIDAD ---
+#llaves secretas o contraseñas de bases de datos
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- EDITORES ---
+.vscode/
+.idea/
+*.sublime-project
