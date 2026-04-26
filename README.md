@@ -1,7 +1,7 @@
-# Eion  
+# Eidon  
 **Tu bitácora personal de consumo mediático.**
 
-Eion es una plataforma diseñada para centralizar y organizar todo el contenido multimedia que consumes. Desde películas y series hasta podcasts y artículos, Eion te permite registrar, calificar y analizar tus hábitos de entretenimiento en un solo lugar.
+Eidon es una plataforma diseñada para centralizar y organizar todo el contenido multimedia que consumes. Desde películas y series hasta podcasts y artículos, Eidon te permite registrar, calificar y analizar tus hábitos de entretenimiento en un solo lugar.
 
 ---
 

@@ -1,7 +1,7 @@
-# Project Scope: Eion 🌌
+# Project Scope: Eidon 
 
 ## 1. Visión General
-**Eion** es una bitácora digital personal diseñada para centralizar, organizar y calificar el consumo de medios (películas, libros, podcasts, música y artículos). El objetivo es que el usuario deje de preguntarse "¿en qué capítulo iba?" o "¿cómo se llamaba aquel documental?" y tenga un historial estético y funcional de su vida mediática.
+**Eidon** es una bitácora digital personal diseñada para centralizar, organizar y calificar el consumo de medios (películas, libros, podcasts, música y artículos). El objetivo es que el usuario deje de preguntarse "¿en qué capítulo iba?" o "¿cómo se llamaba aquel documental?" y tenga un historial estético y funcional de su vida mediática.
 
 ## 2. Audiencia Objetivo
 - Entusiastas de la cultura pop y el aprendizaje continuo.
